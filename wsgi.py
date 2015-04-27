@@ -188,7 +188,7 @@ class Hello(object):
     <body onload="brython()">
         
     <form method=POST action=mygeartest>
-
+    <p>學號:40123151
     <p>齒數:
     <select name=N>
 
